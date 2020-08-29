@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36508524914",
+    "firebase_url": "https://dochop-f1a3d.firebaseio.com",
+    "project_id": "dochop-f1a3d",
+    "storage_bucket": "dochop-f1a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36508524914:android:34e0b6ae4fc443d1c57deb",
+        "android_client_info": {
+          "package_name": "com.example.dochop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36508524914-faupo7bsf99k7s7t1ieefe90l97ddofb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dochop",
+            "certificate_hash": "fcbd0ddbb292fe43993f73f2868e2964cc4e4d0f"
+          }
+        },
+        {
+          "client_id": "36508524914-qc9es181vim184eh19p6r91t00rkqmrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdq_yG9f6Ssm68FeNwRxKQ2aFqufPu-V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36508524914-qc9es181vim184eh19p6r91t00rkqmrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
